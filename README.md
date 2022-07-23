@@ -7,4 +7,4 @@ For object tracking, a simple tracker was implemented. The logic is to assign ob
 depending on a threshold T, keep updating the object ids . Finally remove the ids when the objects move out of frame.
 
 
-![](image.png)
+![Output image](output.png)
